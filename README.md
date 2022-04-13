@@ -2,7 +2,7 @@
   For this project, I designed the classic game of hangman in which you get eight tries to guess a random word. 
   
     The first method is building functions using for, while and if loops to play Hangman.
-    The second method uses Object-Oriented Programming (OOP) and used a Hangman Class to code the game.
+    The second method uses Object-Oriented Programming (OOP) by utilising a Hangman Class to code the game.
 
 Similar coding structure but illustrates an understanding of the underlying principles of Python programming including:
 
